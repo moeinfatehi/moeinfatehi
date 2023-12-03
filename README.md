@@ -1,59 +1,49 @@
-### Hi there 👋
+### 👋 Hi there, I'm [Moein Fatehi]!
 
-<!--
-**moeinfatehi/moeinfatehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Experienced Cybersecurity Specialist and Team Leader, specializing in vulnerability assessment and penetration testing. Passionate about blockchain security and fintech innovations. Developer of a sophisticated cryptocurrency trading bot and founder of VAaaS for smart contract vulnerability detection. Active in CTF competitions with multiple first-place wins as part of the DCUA team. Committed to driving security advancements in both traditional and blockchain technologies. Welcome to my GitHub page where I share my projects and contributions to the world of cybersecurity and blockchain.
 
 [![Twitter: MoeinFatehi](https://img.shields.io/twitter/follow/MoeinFatehi?style=social)](https://twitter.com/MoeinFatehi)
 [![Linkedin: MoeinFatehi](https://img.shields.io/badge/-MoeinFatehi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moein-fatehi-87a35936/)](https://www.linkedin.com/in/moein-fatehi-87a35936/)
 [![GitHub MoeinFatehi](https://img.shields.io/github/followers/moeinfatehi?label=follow&style=social)](https://github.com/moeinfatehi)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=moeinfatehi)
+---
+
+### 🌟 My Projects
+
+Here's a glimpse of my work:
+
+#### BurpSuite Extensions
+- **[Backup-Finder](https://github.com/moeinfatehi/Backup-Finder)**: A Burp Suite extension that dynamically reviews backup, old, temporary, and unreferenced files on web servers for sensitive information. _Technologies: Java, Gradle_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/Backup-Finder?style=social)](https://github.com/moeinfatehi/Backup-Finder/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/Backup-Finder?style=social)](https://github.com/moeinfatehi/Backup-Finder/network/members)
+- **[Admin-Panel_Finder](https://github.com/moeinfatehi/Admin-Panel_Finder)**: Enumerates infrastructure and application Admin Interfaces with configurable testing levels. _Technologies: Java, Gradle_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/Admin-Panel_Finder?style=social)](https://github.com/moeinfatehi/Admin-Panel_Finder/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/Admin-Panel_Finder?style=social)](https://github.com/moeinfatehi/Admin-Panel_Finder/network/members)
+- **[CVSS_Calculator](https://github.com/moeinfatehi/CVSS_Calculator)**: Offline CVSS v2 and v3.1 scores calculator with a user-friendly interface. _Technologies: Java_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/CVSS_Calculator?style=social)](https://github.com/moeinfatehi/CVSS_Calculator/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/CVSS_Calculator?style=social)](https://github.com/moeinfatehi/CVSS_Calculator/network/members)
+- **[PassiveDigger](https://github.com/moeinfatehi/PassiveDigger)**: Passive analysis of web traffic for vulnerabilities, with features like request and response checks. _Technologies: Java, Gradle_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/PassiveDigger?style=social)](https://github.com/moeinfatehi/PassiveDigger/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/PassiveDigger?style=social)](https://github.com/moeinfatehi/PassiveDigger/network/members)
+
+#### Vulnerable Web Challenges
+- **[xss_vulnerability_challenges](https://github.com/moeinfatehi/xss_vulnerability_challenges)**: XSS vulnerability challenges in a Dockerized PHP application, focusing on various bypass techniques. _Technologies: PHP, Docker_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/xss_vulnerability_challenges?style=social)](https://github.com/moeinfatehi/xss_vulnerability_challenges/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/xss_vulnerability_challenges?style=social)](https://github.com/moeinfatehi/xss_vulnerability_challenges/network/members)
+- **[file_upload_vulnerability_scenarios](https://github.com/moeinfatehi/file_upload_vulnerability_scenarios)**: Challenges related to file upload vulnerabilities, including various bypass techniques. _Technologies: PHP, Docker_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/file_upload_vulnerability_scenarios?style=social)](https://github.com/moeinfatehi/file_upload_vulnerability_scenarios/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/file_upload_vulnerability_scenarios?style=social)](https://github.com/moeinfatehi/file_upload_vulnerability_scenarios/network/members)
+- **[lfi-to-rce-scenario](https://github.com/moeinfatehi/lfi-to-rce-scenario)**: LFI to RCE vulnerability challenges in a Dockerized environment, demonstrating path traversal and command execution. _Technologies: PHP, Docker_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/lfi-to-rce-scenario?style=social)](https://github.com/moeinfatehi/lfi-to-rce-scenario/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/lfi-to-rce-scenario?style=social)](https://github.com/moeinfatehi/lfi-to-rce-scenario/network/members)
+- **[captcha_logical_bypass_scenarios](https://github.com/moeinfatehi/captcha_logical_bypass_scenarios)**: Captcha logical bypass challenges, exploring various techniques to circumvent captcha protections. _Technologies: PHP, Docker_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/captcha_logical_bypass_scenarios?style=social)](https://github.com/moeinfatehi/captcha_logical_bypass_scenarios/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/captcha_logical_bypass_scenarios?style=social)](https://github.com/moeinfatehi/captcha_logical_bypass_scenarios/network/members)
+- **[rfi_vulnerability_scenarios](https://github.com/moeinfatehi/rfi_vulnerability_scenarios)**: Remote File Inclusion vulnerability scenarios, focusing on PHP code injection and RCE. _Technologies: PHP, Docker_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/rfi_vulnerability_scenarios?style=social)](https://github.com/moeinfatehi/rfi_vulnerability_scenarios/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/rfi_vulnerability_scenarios?style=social)](https://github.com/moeinfatehi/rfi_vulnerability_scenarios/network/members)
+
+#### Blockchain Security
+- **[Awesome-Smart-Contract-Security](https://github.com/moeinfatehi/Awesome-Smart-Contract-Security)**: A comprehensive resource for smart contract and blockchain security, featuring
+
+ guidelines, best practices, and in-depth articles. _Technologies: Markdown (Documentation)_. [![GitHub stars](https://img.shields.io/github/stars/moeinfatehi/Awesome-Smart-Contract-Security?style=social)](https://github.com/moeinfatehi/Awesome-Smart-Contract-Security/stargazers) [![GitHub forks](https://img.shields.io/github/forks/moeinfatehi/Awesome-Smart-Contract-Security?style=social)](https://github.com/moeinfatehi/Awesome-Smart-Contract-Security/network/members)
+
+---
+
+### 📈 My GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=moeinfatehi&show_icons=true)](https://github.com/moeinfatehi)
+
+---
+
+### 📫 How to Reach Me
+
+- **Twitter**: [Your Twitter](https://twitter.com/MoeinFatehi)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/moein-fatehi-87a35936/)
+- **Email**: moein.fatehi@gmail.com
+
+---
 
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
-
-
-| <a href="https://github.com/moeinfatehi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moeinfatehi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/moeinfatehi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinfatehi&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-# Top Repositories
-
-<a href="https://github.com/moeinfatehi/Backup-Finder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moeinfatehi&repo=Backup-Finder&theme=buefy" />
-</a>
-<a href="https://github.com/moeinfatehi/Admin-Panel_Finder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moeinfatehi&repo=Admin-Panel_Finder&theme=buefy" />
-</a>
-<a href="https://github.com/moeinfatehi/xss_vulnerability_challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moeinfatehi&repo=xss_vulnerability_challenges&theme=buefy" />
-</a>
-<a href="https://github.com/moeinfatehi/file_upload_vulnerability_scenarios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moeinfatehi&repo=file_upload_vulnerability_scenarios&theme=buefy" />
-</a>
-<a href="https://github.com/moeinfatehi/captcha_logical_bypass_scenarios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moeinfatehi&repo=captcha_logical_bypass_scenarios&theme=buefy" />
-</a>
-<h4 align="center">
-  <a href="https://github.com/moeinfatehi?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+Feel free to fork and star my repositories if you find them useful!
