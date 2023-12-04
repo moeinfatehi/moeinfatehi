@@ -39,8 +39,8 @@ Here's a glimpse of my work:
 
 ### 📫 How to Reach Me
 
-- **Twitter**: [Your Twitter](https://twitter.com/MoeinFatehi)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/moein-fatehi-87a35936/)
+- **Twitter**: [MoeinFatehi](https://twitter.com/MoeinFatehi)
+- **LinkedIn**: [MoeinFatehi](https://www.linkedin.com/in/moein-fatehi-87a35936/)
 - **Email**: moein.fatehi@gmail.com
 
 ---
