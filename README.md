@@ -1,9 +1,9 @@
-### 👋 Hi there, I'm [Moein Fatehi]!
+### 👋 Hi there, I'm Moein Fatehi!
 
 Experienced Cybersecurity Specialist and Team Leader, specializing in vulnerability assessment and penetration testing. Passionate about blockchain security and fintech innovations. Developer of a sophisticated cryptocurrency trading bot and founder of VAaaS for smart contract vulnerability detection. Active in CTF competitions with multiple first-place wins as part of the DCUA team. Committed to driving security advancements in both traditional and blockchain technologies. Welcome to my GitHub page where I share my projects and contributions to the world of cybersecurity and blockchain.
 
 [![Twitter: MoeinFatehi](https://img.shields.io/twitter/follow/MoeinFatehi?style=social)](https://twitter.com/MoeinFatehi)
-[![Linkedin: MoeinFatehi](https://img.shields.io/badge/-MoeinFatehi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moein-fatehi-87a35936/)](https://www.linkedin.com/in/moein-fatehi-87a35936/)
+[![Linkedin: MoeinFatehi](https://img.shields.io/badge/-MoeinFatehi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/moeinfatehi)](www.linkedin.com/in/moeinfatehi)
 [![GitHub MoeinFatehi](https://img.shields.io/github/followers/moeinfatehi?label=follow&style=social)](https://github.com/moeinfatehi)
 ---
 
